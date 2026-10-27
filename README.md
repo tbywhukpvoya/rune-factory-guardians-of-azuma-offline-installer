@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Rune Factory: Guardians of Azuma" src="https://raw.githubusercontent.com/tbywhukpvoya/rune-factory-guardians-of-azuma-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Rune Factory: Guardians of Azuma
